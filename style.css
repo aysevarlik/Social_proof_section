@@ -1,0 +1,83 @@
+html{
+    font-size: 15px;
+    font-family:"League Spartan", sans-serif;
+}
+.big_p{
+    font-weight: 650;
+    color: hsl(300, 43%, 22%);
+    font-size: 3.5rem;
+    line-height: 3.2rem;
+    margin-right: 15rem;
+}
+.small_p{
+    color: hsl(303, 10%, 53%);
+    font-size: 0.9rem;
+    font-weight: 450;
+    margin-right: 16rem;
+    margin-top: 1rem;
+}
+.container{
+    margin-left: 12rem;
+    margin-top: 8rem;
+}
+.div_1{
+    width: 40rem;
+    height: 18rem;
+    float: left;
+}
+.div_2{
+    width: 38rem;
+    height:18rem ;
+    float: left;
+    font-weight: 500;
+    text-align:center;
+}
+.small_box{
+    background-color: hsl(300, 24%, 96%);
+    width: 30rem;
+    height: 4rem;
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;
+    padding-top: 1.3rem;
+    padding-left: 2rem;
+    color: hsl(300, 43%, 22%);
+}
+#sb_2{
+    margin-left: 4rem;
+}
+#sb_3{
+    margin-left: 8rem;
+}
+svg{
+    float: left;
+    margin-right: 0.5rem;
+    margin-top: 0.2rem;
+}
+.div_3{
+    width: 80rem;
+}
+.colton,
+.irene,
+.anne{
+    width: 24rem;
+    height: 16rem;
+    background-color:hsl(300, 43%, 22%);
+    float: left;
+    margin-right: 2.6rem;
+    border-radius: 0.6rem;
+    font-family: "League Spartan",sans-serif;
+}
+.colton_img,
+.irene_img,
+.anne_img{
+    margin: 2rem 2rem 0.6rem 2rem;
+    width: 3rem;
+    border-radius: 50%;
+    float: left;
+}
+.irene{
+    margin-top: 1.5rem;
+}
+.anne{
+    margin-top: 3rem;
+}
