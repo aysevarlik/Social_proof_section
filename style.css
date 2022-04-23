@@ -2,6 +2,10 @@ html{
     font-size: 15px;
     font-family:"League Spartan", sans-serif;
 }
+body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
 .big_p{
     font-weight: 650;
     color: hsl(300, 43%, 22%);
